@@ -1,0 +1,3 @@
+import SnakeSoul
+
+SnakeSoul.main()
